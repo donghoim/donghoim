@@ -1,23 +1,52 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:1ABC9C&height=210&section=header&text=%EC%9E%84%EB%8F%99%ED%98%B8&fontSize=58&fontColor=ffffff&desc=PM%20%C2%B7%20PO%20%E2%80%94%20%EC%BB%A4%EB%84%A5%ED%8A%B8%EC%9B%A8%EC%9D%B4%EB%B8%8C%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%83%B5&descAlignY=75&descSize=18&fontAlignY=38" width="100%" />
+
 <div align="center">
 
-# 임동호
-### PM · PO — 커넥트웨이브 메이크샵
+<img src="https://readme-typing-svg.demolab.com/?font=Pretendard&size=20&pause=1500&color=2C3E50&center=true&vCenter=true&width=700&lines=PM%20%C2%B7%20PO%20%E2%80%94%20%EC%BB%A4%EB%84%A5%ED%8A%B8%EC%9B%A8%EC%9D%B4%EB%B8%8C%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%83%B5;%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EC%A0%95%EC%B1%85%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EA%B5%AC%EC%A1%B0%ED%99%94%ED%95%B4%2C%20%EC%8B%A4%EC%A0%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4." />
 
-복잡한 정책과 데이터를 구조화해, 실제 동작하는 제품으로 만듭니다.
-
-<img src="https://img.shields.io/badge/Career-6yr-2C3E50?style=flat-square" />
-<img src="https://img.shields.io/badge/Projects-20%2B-2C3E50?style=flat-square" />
-<img src="https://img.shields.io/badge/New%20Service%20Launch-3-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/Career-6yr-16A085?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Projects-20%2B-2980B9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/New%20Service%20Launch-3-E67E22?style=for-the-badge" />
 
 </div>
 
 <br>
 
-### Focus
+### 🧭 Focus
 
-`상품·옵션` `재고` `주문·결제` `취소·환불` `배송` `쿠폰·프로모션` `회원·권한` `CS` `외부 채널 연동` `데이터·SQL`
+<div align="center">
 
-### How I Work
+<img src="https://img.shields.io/badge/상품·옵션-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/재고-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/주문·결제-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/취소·환불-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/배송-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/쿠폰·프로모션-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/회원·권한-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/CS-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/외부 채널 연동-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/데이터·SQL-2C3E50?style=flat-square" />
+
+</div>
+
+### 🛠 Toolkit
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+</div>
+
+<br>
+
+### ⚙️ How I Work
 
 | Problem Definition | Scope & Priority | System & Policy | Delivery |
 |---|---|---|---|
@@ -27,7 +56,7 @@
 
 <br>
 
-### Selected Projects
+### 🚀 Selected Projects
 
 | 프로젝트 | 기간 | 역할 | Key Result |
 |---|---|---|---|
@@ -45,3 +74,5 @@
 *"예외 케이스의 완성도가 품질을 결정한다."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,100:2C3E50&height=100&section=footer" width="100%" />
