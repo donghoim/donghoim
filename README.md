@@ -40,17 +40,6 @@
 
 <br>
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=donghoim&show_icons=true&hide_title=true&title_color=2C3E50&icon_color=2C3E50&text_color=333333&bg_color=ffffff&border_color=e5e5e5" height="165" />
-<img src="https://github-profile-trophy.vercel.app/?username=donghoim&theme=flat&no-frame=true&row=1&column=6&title_color=2C3E50&text_color=333333" height="165" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 *"예외 케이스의 완성도가 품질을 결정한다."*
