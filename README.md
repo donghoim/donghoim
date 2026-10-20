@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/배송-2C3E50?style=flat-square" />
 <img src="https://img.shields.io/badge/쿠폰·프로모션-2C3E50?style=flat-square" />
 <img src="https://img.shields.io/badge/회원·권한-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/보안·컴플라이언스-2C3E50?style=flat-square" />
 <img src="https://img.shields.io/badge/CS-2C3E50?style=flat-square" />
 <img src="https://img.shields.io/badge/외부 채널 연동-2C3E50?style=flat-square" />
 <img src="https://img.shields.io/badge/데이터·SQL-2C3E50?style=flat-square" />
@@ -64,6 +65,7 @@
 | **GEO/MCP 기반 AI Commerce 확장** | 2026.03 – 2026.08 | PM · GEO/MCP 구조 설계, 운영사별 설정 화면 기획 | MCP 연동 상품 124,830건, AI 검색 클릭률 18.4%↑ |
 | **External Commerce Channel Integration** (Google) | 2026.06 – 2026.09 · 진행중 | 연동 원칙 수립, 정책·예외 케이스 설계, QA 시나리오 작성 | 데이터 우선 원칙 수립, 설계 기준과 충돌하는 설계 2건 발견·수정 |
 | **Meta 채널 연동** | 2026.08 – 2026.10 | 요구사항 정의, 화면 설계, 정책 판단, QA 시나리오 작성(TC 267건) | Shops 관리·Embedded Signup 경계 설정 |
+| **Security & Compliance** (로그인 보안 · 휴면회원 정책 · 사업자 인증) | 2023.07 – 2026.02 | 보안·법령 요구를 관리자 기능으로 설계 · 공격 패턴 지표, 보안 메뉴 통합·reCAPTCHA, 휴면 일괄 해제 통제 | ISMS 심사 통과, 3건 모두 배포 |
 | **OneFabric** (원단·부자재 B2B 플랫폼) | 2021.05 – 2023.01 | PM/기획 · ERD 설계, SQL 작성·데이터 구조 검증 | 발주 프로세스 100% 디지털화, 발주 오류율 87%↓ |
 | **FabricMaster ERP** | 2021.05 – 2022.12 | PM/기획 · 모듈·DB 설계, SQL 작성·쿼리 튜닝 | 발주-생산 연동 100%, 원가 계산 오류 92%↓ |
 
