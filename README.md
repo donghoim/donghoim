@@ -79,6 +79,21 @@
 
 <br>
 
+### 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="./assets/stats.svg" width="49%" alt="GitHub 활동 요약" />
+<img src="./assets/languages.svg" width="49%" alt="사용 언어" />
+<img src="./assets/commit-time.svg" width="98.5%" alt="커밋 시간대" />
+<img src="https://streak-stats.demolab.com/?user=donghoim&locale=ko&hide_border=true&background=FFFFFF&ring=1ABC9C&fire=1ABC9C&currStreakLabel=2C3E50&sideLabels=2C3E50&sideNums=2C3E50&currStreakNum=2C3E50&dates=7F8C8D&stroke=E5E8EB" width="98.5%" alt="커밋 스트릭" />
+
+<sub>GitHub Actions가 매일 00:00(KST)에 공개 저장소 데이터로 갱신합니다.</sub>
+
+</div>
+
+<br>
+
 <div align="center">
 
 *"예외 케이스의 완성도가 품질을 결정한다."*

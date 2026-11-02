@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" font-family="'Segoe UI','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif">
+  <rect x="0.5" y="0.5" width="399" height="229" rx="8" fill="#FFFFFF" stroke="#E5E8EB"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#2C3E50">GitHub 활동 요약</text>
+  <rect x="24" y="48" width="28" height="3" rx="1.5" fill="#1ABC9C"/>
+  <circle cx="30" cy="79" r="4" fill="#1ABC9C"/>
+  <text x="44" y="84" font-size="14" fill="#2C3E50">공개 저장소</text>
+  <text x="376" y="84" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">4</text>
+  <circle cx="30" cy="107" r="4" fill="#1ABC9C"/>
+  <text x="44" y="112" font-size="14" fill="#2C3E50">총 커밋</text>
+  <text x="376" y="112" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">34</text>
+  <circle cx="30" cy="135" r="4" fill="#1ABC9C"/>
+  <text x="44" y="140" font-size="14" fill="#2C3E50">2026년 기여</text>
+  <text x="376" y="140" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">34</text>
+  <circle cx="30" cy="163" r="4" fill="#1ABC9C"/>
+  <text x="44" y="168" font-size="14" fill="#2C3E50">커밋한 날</text>
+  <text x="376" y="168" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">9</text>
+  <circle cx="30" cy="191" r="4" fill="#1ABC9C"/>
+  <text x="44" y="196" font-size="14" fill="#2C3E50">최근 커밋</text>
+  <text x="376" y="196" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">2026.10.27</text>
+</svg>
