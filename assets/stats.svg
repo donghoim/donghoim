@@ -7,14 +7,14 @@
   <text x="376" y="84" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">4</text>
   <circle cx="30" cy="107" r="4" fill="#1ABC9C"/>
   <text x="44" y="112" font-size="14" fill="#2C3E50">총 커밋</text>
-  <text x="376" y="112" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">34</text>
+  <text x="376" y="112" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">35</text>
   <circle cx="30" cy="135" r="4" fill="#1ABC9C"/>
   <text x="44" y="140" font-size="14" fill="#2C3E50">2026년 기여</text>
-  <text x="376" y="140" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">34</text>
+  <text x="376" y="140" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">35</text>
   <circle cx="30" cy="163" r="4" fill="#1ABC9C"/>
   <text x="44" y="168" font-size="14" fill="#2C3E50">커밋한 날</text>
-  <text x="376" y="168" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">9</text>
+  <text x="376" y="168" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">10</text>
   <circle cx="30" cy="191" r="4" fill="#1ABC9C"/>
   <text x="44" y="196" font-size="14" fill="#2C3E50">최근 커밋</text>
-  <text x="376" y="196" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">2026.10.27</text>
+  <text x="376" y="196" font-size="14" font-weight="700" fill="#2C3E50" text-anchor="end">2026.11.02</text>
 </svg>
