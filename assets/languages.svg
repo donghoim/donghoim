@@ -5,7 +5,7 @@
   <clipPath id="b"><rect x="24" y="70" width="352" height="10" rx="5"/></clipPath>
   <g clip-path="url(#b)">
   <rect x="24.0" y="70" width="198.0" height="10" fill="#2C3E50"/>
-  <rect x="222.0" y="70" width="145.6" height="10" fill="#1ABC9C"/>
+  <rect x="222.0" y="70" width="145.5" height="10" fill="#1ABC9C"/>
   <rect x="367.5" y="70" width="6.1" height="10" fill="#2980B9"/>
   <rect x="373.6" y="70" width="2.1" height="10" fill="#E67E22"/>
   <rect x="375.7" y="70" width="2.0" height="10" fill="#95A5A6"/>
@@ -13,7 +13,7 @@
   <circle cx="29" cy="107" r="5" fill="#2C3E50"/>
   <text x="40" y="112" font-size="14" fill="#2C3E50">HTML <tspan fill="#7F8C8D">56.2%</tspan></text>
   <circle cx="209" cy="107" r="5" fill="#1ABC9C"/>
-  <text x="220" y="112" font-size="14" fill="#2C3E50">JavaScript <tspan fill="#7F8C8D">41.4%</tspan></text>
+  <text x="220" y="112" font-size="14" fill="#2C3E50">JavaScript <tspan fill="#7F8C8D">41.3%</tspan></text>
   <circle cx="29" cy="135" r="5" fill="#2980B9"/>
   <text x="40" y="140" font-size="14" fill="#2C3E50">Java <tspan fill="#7F8C8D">1.7%</tspan></text>
   <circle cx="209" cy="135" r="5" fill="#E67E22"/>

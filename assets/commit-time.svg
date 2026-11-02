@@ -5,13 +5,13 @@
   <text x="24" y="90" font-size="14" fill="#2C3E50">🌞 아침</text>
   <text x="120" y="90" font-size="13" fill="#7F8C8D">06–12시</text>
   <rect x="210" y="79" width="396" height="12" rx="6" fill="#E5E8EB"/>
-  <rect x="210" y="79" width="192.3" height="12" rx="6" fill="#2C3E50"/>
-  <text x="796" y="90" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">17</tspan> <tspan fill="#7F8C8D">commits · 48.6%</tspan></text>
+  <rect x="210" y="79" width="192.9" height="12" rx="6" fill="#2C3E50"/>
+  <text x="796" y="90" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">19</tspan> <tspan fill="#7F8C8D">commits · 48.7%</tspan></text>
   <text x="24" y="120" font-size="14" fill="#2C3E50">🌆 오후</text>
   <text x="120" y="120" font-size="13" fill="#7F8C8D">12–18시</text>
   <rect x="210" y="109" width="396" height="12" rx="6" fill="#E5E8EB"/>
-  <rect x="210" y="109" width="203.7" height="12" rx="6" fill="#1ABC9C"/>
-  <text x="796" y="120" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">18</tspan> <tspan fill="#7F8C8D">commits · 51.4%</tspan></text>
+  <rect x="210" y="109" width="203.1" height="12" rx="6" fill="#1ABC9C"/>
+  <text x="796" y="120" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">20</tspan> <tspan fill="#7F8C8D">commits · 51.3%</tspan></text>
   <text x="24" y="150" font-size="14" fill="#2C3E50">🌃 저녁</text>
   <text x="120" y="150" font-size="13" fill="#7F8C8D">18–24시</text>
   <rect x="210" y="139" width="396" height="12" rx="6" fill="#E5E8EB"/>
