@@ -5,18 +5,18 @@
   <text x="24" y="90" font-size="14" fill="#2C3E50">🌞 아침</text>
   <text x="120" y="90" font-size="13" fill="#7F8C8D">06–12시</text>
   <rect x="210" y="79" width="396" height="12" rx="6" fill="#E5E8EB"/>
-  <rect x="210" y="79" width="202.8" height="12" rx="6" fill="#1ABC9C"/>
-  <text x="796" y="90" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">21</tspan> <tspan fill="#7F8C8D">commits · 51.2%</tspan></text>
+  <rect x="210" y="79" width="189.0" height="12" rx="6" fill="#1ABC9C"/>
+  <text x="796" y="90" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">21</tspan> <tspan fill="#7F8C8D">commits · 47.7%</tspan></text>
   <text x="24" y="120" font-size="14" fill="#2C3E50">🌆 오후</text>
   <text x="120" y="120" font-size="13" fill="#7F8C8D">12–18시</text>
   <rect x="210" y="109" width="396" height="12" rx="6" fill="#E5E8EB"/>
-  <rect x="210" y="109" width="193.2" height="12" rx="6" fill="#2C3E50"/>
-  <text x="796" y="120" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">20</tspan> <tspan fill="#7F8C8D">commits · 48.8%</tspan></text>
+  <rect x="210" y="109" width="180.0" height="12" rx="6" fill="#2C3E50"/>
+  <text x="796" y="120" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">20</tspan> <tspan fill="#7F8C8D">commits · 45.5%</tspan></text>
   <text x="24" y="150" font-size="14" fill="#2C3E50">🌃 저녁</text>
   <text x="120" y="150" font-size="13" fill="#7F8C8D">18–24시</text>
   <rect x="210" y="139" width="396" height="12" rx="6" fill="#E5E8EB"/>
-  <rect x="210" y="139" width="0.0" height="12" rx="6" fill="#2C3E50"/>
-  <text x="796" y="150" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">0</tspan> <tspan fill="#7F8C8D">commits · 0.0%</tspan></text>
+  <rect x="210" y="139" width="27.0" height="12" rx="6" fill="#2C3E50"/>
+  <text x="796" y="150" font-size="14" fill="#2C3E50" text-anchor="end"><tspan font-weight="700">3</tspan> <tspan fill="#7F8C8D">commits · 6.8%</tspan></text>
   <text x="24" y="180" font-size="14" fill="#2C3E50">🌙 새벽</text>
   <text x="120" y="180" font-size="13" fill="#7F8C8D">00–06시</text>
   <rect x="210" y="169" width="396" height="12" rx="6" fill="#E5E8EB"/>
